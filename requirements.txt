@@ -1,0 +1,9 @@
+python 3.5 or above
+bs4     #pass html code and find elements inside it
+requests
+packaging  #deppendancies
+pillow  #deppendancies
+pyparsing #deppendancies
+psutil  #deppendancies
+pexpect  #deppendancies
+pandas #to convert datas into csv format
