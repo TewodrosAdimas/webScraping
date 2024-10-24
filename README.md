@@ -1,4 +1,5 @@
 Amazon Web Scraper
+
 This project is a Python-based web scraper that extracts product information (such as title, author, rating, and price) from Amazon search results for books in Amharic. The data is scraped using BeautifulSoup and stored in a CSV file for further analysis.
 
 Features
