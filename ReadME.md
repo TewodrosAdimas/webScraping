@@ -1,13 +1,3 @@
-### Enhancements:
-
-1. Add a **Dependencies** section under _Prerequisites_ for clarity.
-2. Ensure consistency by specifying the filename in the _Modify the Amazon URL_ step.
-3. Mention a troubleshooting tip in case the script doesn't work.
-
----
-
-### Updated README:
-
 ````markdown
 # Amazon Web Scraper
 
